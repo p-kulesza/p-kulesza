@@ -6,8 +6,8 @@ Hello! 👋 I'm Piotr, a passionate software tester with a keen interest in test
 
 ## About Me
 
-- [**LinkedIn:**](https://www.linkedin.com/in/piotr-kulesza-1ba834121/)
-- [**Resume:**](https://kuleszacv.netlify.app/)
+- [**LinkedIn**](https://www.linkedin.com/in/piotr-kulesza-1ba834121/)
+- [**Resume**](https://kuleszacv.netlify.app/)
 
 ## Skills
 
