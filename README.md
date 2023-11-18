@@ -4,12 +4,10 @@
 
 Hello! 👋 I'm Piotr, a passionate software tester with a keen interest in test automation and API testing. This repository serves as a showcase of my skills, projects, and experiences related to software testing.
 
-## About Me
-
 - [**LinkedIn**](https://www.linkedin.com/in/piotr-kulesza-1ba834121/)
 - [**Resume**](https://kuleszacv.netlify.app/)
 
-## Skills
+## Skills<a name=skills></a>
 
 - **Software Testing:** Experienced in manual and automated testing methodologies.
 - **Test Automation:** Proficient in creating automated test scripts using Selenium.
@@ -17,7 +15,7 @@ Hello! 👋 I'm Piotr, a passionate software tester with a keen interest in test
 - **Programming Languages:** Python, JavaScript.
 - **Tools:** Selenium, Postman, Cypress, Jira, DevOps.
   
-## Projects :computer:
+## Projects :computer: <a name=projects></a>
 
 ### Project 1: E-commerce automated testing [Selenium/Python]
 
@@ -37,7 +35,7 @@ Hello! 👋 I'm Piotr, a passionate software tester with a keen interest in test
   
 - [Link](https://github.com/p-kulesza/API-testing)
 
-## Courses
+## Courses <a name=courses></a>
 
 :small_orange_diamond: **ISTQB Foundation Level course**
 <h4>This course equipped me with the knowledge to contribute meaningfully to the software development process and prepared me for the ISTQB Foundation Level certification.</h4>
@@ -74,7 +72,7 @@ Hello! 👋 I'm Piotr, a passionate software tester with a keen interest in test
   - Improved proficiency in HTML and CSS, gaining insights into web page structure and design principles.
   - Enhanced understanding of element locators, particularly how they are used in writing effective test automation scripts.
 
-## How to Reach Me
+## How to Reach Me?<a name="reach"></a>
 
 - Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/piotr-kulesza-1ba834121/).
 - You can also reach out via email: piotrkulesza2000@gmail.com
