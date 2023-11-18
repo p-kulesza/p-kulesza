@@ -39,21 +39,40 @@ Hello! 👋 I'm Piotr, a passionate software tester with a keen interest in test
 
 ## Courses
 
-:large_blue_diamond: **ISTQB Foundation Level course** 
-* This course equipped me with the knowledge to contribute meaningfully to the software development process and prepared me for the ISTQB Foundation Level certification.
+:small_orange_diamond: **ISTQB Foundation Level course**
+<h4>This course equipped me with the knowledge to contribute meaningfully to the software development process and prepared me for the ISTQB Foundation Level certification.</h4>
   
-:large_blue_diamond: **Selenium Webdriver with Python course**
-* During this course I gained a solid foundation for creating robust and efficient automated test scripts, empowering me to implement effective test automation in my software testing projects using Python and Selenium.
+  - Comprehensive understanding of software testing principles and practices.
+  - Knowledge of the software development life cycle, testing levels, types, and design techniques.
+  - Ability to create effective test cases, contribute to test management, and communicate effectively within a testing team
+    
+:small_orange_diamond: **Selenium Webdriver with Python course**
+<h4>During this course I gained a solid foundation for creating robust and efficient automated test scripts, empowering me to implement effective test automation in my software testing projects using Python and Selenium.</h4>
 
-:large_blue_diamond: **Postman: The complete guide - REST API Testing course**
-* The course equipped me with comprehensive knowledge and practical skills in using Postman for testing REST APIs. I gained proficiency in creating and managing API requests, testing various endpoints, and handling authentication methods. 
+  - Proficiency in using Selenium WebDriver with Python for automated web testing.
+  - Practical skills in writing and executing Selenium scripts to automate browser interactions.
+  - Ability to handle dynamic web elements, locate elements on web pages, and perform functional testing through hands-on exercises and practical examples.
 
-:large_blue_diamond: **QA Marathon by GoIT Polska**
-* Participating in the QA Marathon provided me with valuable insights and practical skills in manual testing, emphasizing the use of test management tools to enhance testing processs. I gained proficiency in creating and executing test cases, documenting test scenarios, and tracking testing progress efficiently within the TestRail platform.
+:small_orange_diamond: **Postman: The complete guide - REST API Testing course**
+<h4>The course equipped me with comprehensive knowledge and practical skills in using Postman for testing REST APIs. I gained proficiency in creating and managing API requests, testing various endpoints, and handling authentication methods.</h4>
+  
+  - In-depth knowledge of using Postman for testing REST APIs, including creating and managing API requests.
+  - Proficiency in handling various authentication methods and testing different endpoints.
+  - Practical skills in data-driven testing, scripting with JavaScript in Postman, and incorporating automation into API testing workflows. 
 
-:large_blue_diamond: **HTML/CSS Marathon by GoIT Polska**
-* Participating in the HTML/CSS Marathon deepened my understanding of web development by guiding me through the creation of a webpage from a template. This hands-on experience not only honed my skills in HTML and CSS but also provided valuable insights into web page structure and design principles. Importantly, the marathon helped me grasp the intricacies of element locators, a crucial aspect in writing effective test automation scripts. By working with HTML and CSS, I gained a practical foundation that directly translated into improved proficiency in identifying and interacting with elements when automating tests.
+:small_orange_diamond: **QA Marathon by GoIT Polska**
+<h4>Participating in the QA Marathon provided me with valuable insights and practical skills in manual testing, emphasizing the use of test management tools to enhance testing processs. I gained proficiency in creating and executing test cases, documenting test scenarios, and tracking testing progress efficiently within the TestRail platform.</h4>
 
+  - Enhanced proficiency in manual testing methodologies through participation in the QA Marathon.
+  - Practical experience in utilizing test management tools like TestRail for efficient test case creation, execution, and progress tracking.
+  - Improved understanding of the importance of structured manual testing, emphasizing comprehensive test coverage and effective communication within the testing team.
+    
+:small_orange_diamond: **HTML/CSS Marathon by GoIT Polska**
+<h4>This hands-on experience not only honed my skills in HTML and CSS but also provided valuable insights into web page structure and design principles. By working with HTML and CSS, I gained a practical foundation that directly translated into improved proficiency in identifying and interacting with elements when automating tests.</h4>
+  
+  - Hands-on experience in creating a webpage from a template using HTML and CSS during the HTML/CSS Marathon.
+  - Improved proficiency in HTML and CSS, gaining insights into web page structure and design principles.
+  - Enhanced understanding of element locators, particularly how they are used in writing effective test automation scripts.
 
 ## How to Reach Me
 
