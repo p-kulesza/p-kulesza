@@ -41,7 +41,7 @@ Hello! 👋 I'm Piotr, a passionate software tester with a keen interest in test
 
   - **[Certification info](https://www.freecodecamp.org/learn/quality-assurance/)**
 
-  - **[Course repo](https://github.com/p-kulesza/QualityAssuranceCertification)**
+  - **[Certification repo](https://github.com/p-kulesza/QualityAssuranceCertification)**
    
 ## Courses <a name=courses></a>
 
