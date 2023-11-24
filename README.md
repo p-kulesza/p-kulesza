@@ -34,14 +34,6 @@ Hello! 👋 I'm Piotr, a passionate software tester with a keen interest in test
 - Technologies: Postman, JavaScript
   
 - [Link](https://github.com/p-kulesza/API-testing)
-
-## Certifications
-
-:books: freeCodeCamp - Quality Assurance Certification (Ongoing)
-
-  - **[Certification info](https://www.freecodecamp.org/learn/quality-assurance/)**
-
-  - **[Certification repo](https://github.com/p-kulesza/QualityAssuranceCertification)**
    
 ## Courses <a name=courses></a>
 
