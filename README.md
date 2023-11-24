@@ -35,6 +35,14 @@ Hello! 👋 I'm Piotr, a passionate software tester with a keen interest in test
   
 - [Link](https://github.com/p-kulesza/API-testing)
 
+## Certifications
+
+:books: freeCodeCamp - Quality Assurance Certification (Ongoing)
+
+  - **[Certification info](https://www.freecodecamp.org/learn/quality-assurance/)**
+
+  - **[Course repo](https://github.com/p-kulesza/QualityAssuranceCertification)**
+   
 ## Courses <a name=courses></a>
 
 :small_orange_diamond: **ISTQB Foundation Level course**
