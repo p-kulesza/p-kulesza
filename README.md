@@ -4,8 +4,7 @@
 
 Hello! 👋 I'm Piotr, a passionate software tester with a keen interest in test automation and API testing. This repository serves as a showcase of my skills, projects, and experiences related to software testing.
 
-- [**LinkedIn**](https://www.linkedin.com/in/piotr-kulesza-1ba834121/)
-- [**Resume**](https://kuleszacv.netlify.app/)
+- [**LinkedIn**](https://www.linkedin.com/in/piotrkulesza2000)
 
 ## Skills<a name=skills></a>
 
@@ -74,7 +73,7 @@ Hello! 👋 I'm Piotr, a passionate software tester with a keen interest in test
 
 ## How to Reach Me?<a name="reach"></a>
 
-- Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/piotr-kulesza-1ba834121/).
+- Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/piotrkulesza2000/).
 - You can also reach out via email: piotrkulesza2000@gmail.com
 
 ## Looking for Opportunities :zap:
