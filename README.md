@@ -12,7 +12,7 @@ Hello! 👋 I'm Piotr, a passionate software tester with a keen interest in test
 - **Test Automation:** Proficient in creating automated test scripts using Selenium.
 - **API Testing:** Familiar with testing APIs.
 - **Programming Languages:** Python, JavaScript.
-- **Tools:** Selenium, Postman, Cypress, Jira, DevOps.
+- **Tools:** Selenium, Postman, Cypress
   
 ## Projects :computer: <a name=projects></a>
 
@@ -33,7 +33,14 @@ Hello! 👋 I'm Piotr, a passionate software tester with a keen interest in test
 - Technologies: Postman, JavaScript
   
 - [Link](https://github.com/p-kulesza/API-testing)
-   
+
+### Project 3: API Data Processing [Python]
+
+- Description: This project integrates OmdbAPI and TasteDive to create a comprehensive platform for discovering and exploring movies. By leveraging OmdbAPI, the system provides detailed information about movies, including plots, casts, and ratings. TasteDive enhances this by offering personalized movie recommendations based on user preferences. The combination of these APIs ensures a rich user experience, allowing for easy discovery and detailed exploration of films.
+
+- Technologies: Python
+
+- [Link](
 ## Courses <a name=courses></a>
 
 :small_orange_diamond: **ISTQB Foundation Level course**
