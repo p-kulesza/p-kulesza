@@ -12,7 +12,7 @@ Hello! 👋 I'm Piotr, a passionate software tester with a keen interest in test
 - **Test Automation:** Proficient in creating automated test scripts using Selenium.
 - **API Testing:** Familiar with testing APIs.
 - **Programming Languages:** Python, JavaScript.
-- **Tools:** Selenium, Postman, Cypress
+- **Tools:** Selenium, Plawyright, Postman
   
 ## Projects :computer: <a name=projects></a>
 
