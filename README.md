@@ -1,18 +1,8 @@
-# Piotr Kulesza
+## Tech stack<a name=techstack></a>
 
-## Introduction
-
-Hello! 👋 I'm Piotr, a passionate software tester with a keen interest in test automation and API testing. This repository serves as a showcase of my skills, projects, and experiences related to software testing.
-
-- [**LinkedIn**](https://www.linkedin.com/in/piotrkulesza2000)
-
-## Skills<a name=skills></a>
-
-- **Software Testing:** Experienced in manual and automated testing methodologies.
-- **Test Automation:** Proficient in creating automated test scripts using Selenium.
-- **API Testing:** Familiar with testing APIs.
 - **Programming Languages:** Python, JavaScript.
-- **Tools:** Selenium, Plawyright, Postman
+- **Frameworks**: Selenium, Playwright
+- **Tools**: Postman
   
 ## Projects :computer: <a name=projects></a>
 
