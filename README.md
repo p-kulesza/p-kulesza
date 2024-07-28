@@ -1,7 +1,9 @@
 ## Tech stack<a name=techstack></a>
 
-**Programming Languages:** Python, JavaScript.
+**Programming Languages:** Python, JavaScript
+
 **Frameworks**: Selenium, Playwright
+
 **Tools**: Postman
   
 ## Projects :computer: <a name=projects></a>
