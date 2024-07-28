@@ -36,7 +36,7 @@ Hello! 👋 I'm Piotr, a passionate software tester with a keen interest in test
 
 ### Project 3: API Data Processing [Python]
 
-- Description: This project integrates OmdbAPI and TasteDive to create a comprehensive platform for discovering and exploring movies. By leveraging OmdbAPI, the system provides detailed information about movies, including plots, casts, and ratings. TasteDive enhances this by offering personalized movie recommendations based on user preferences. The combination of these APIs ensures a rich user experience, allowing for easy discovery and detailed exploration of films.
+- Description: This project integrates OmdbAPI and TasteDive  for discovering and exploring movies. OmdbAPI provides detailed information about movies, including plots, casts, and ratings. TasteDive offers personalized movie recommendations based on user preferences. The combination of these APIs ensures a rich user experience, allowing for easy discovery and detailed exploration of films.
 
 - Technologies: Python
 
