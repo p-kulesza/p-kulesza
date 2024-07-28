@@ -22,7 +22,7 @@
 
 ### API Data Processing
 
-- This project integrates OmdbAPI and TasteDive  for discovering and exploring movies. OmdbAPI provides detailed information about movies, including plots, casts, and ratings. TasteDive offers personalized movie recommendations based on user preferences. The combination of these APIs ensures a rich user experience, allowing for easy discovery and detailed exploration of films.
+- This project integrates OmdbAPI and TasteDive for discovering and exploring movies.
 - Tech: Python
 
 - [Link](https://github.com/p-kulesza/APIDataProcessing)
