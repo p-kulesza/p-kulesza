@@ -32,4 +32,4 @@
 ## How to Reach Me?<a name="reach"></a>
 
 - Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/piotrkulesza2000/).
-- You can also reach out via email: piotrkulesza2000@gmail.com
+- You can also reach out via [email](piotrkulesza2000@gmail.com)
