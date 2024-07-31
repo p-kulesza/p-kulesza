@@ -8,9 +8,15 @@
   
 ## Projects :computer: <a name=projects></a>
 
-### E-commerce automated testing
+### Playwright automated testing
+- This project focused on implementing automated Playwright testing for RocketDev website
+- Tech: Playwright, JavaScript
 
-- This project focused on implementing automated testing for a dummy E-commerce website (https://www.saucedemo.com/).
+-[Link](https://github.com/p-kulesza/PlaywrightJavaScript)
+
+### Selenium automated testing
+
+- This project focused on implementing automated Selenium testing for a dummy E-commerce website (https://www.saucedemo.com/).
 - Tech: Selenium, Python
   
 - [Link](https://github.com/p-kulesza/ecommerce_SeleniumPython_POM)
