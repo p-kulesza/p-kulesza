@@ -12,7 +12,7 @@
 - This project focused on implementing automated Playwright testing for RocketDev website
 - Tech: Playwright, JavaScript
 
--[Link](https://github.com/p-kulesza/PlaywrightJavaScript)
+- [Link](https://github.com/p-kulesza/PlaywrightJavaScript)
 
 ### Selenium automated testing
 
