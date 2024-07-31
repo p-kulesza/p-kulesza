@@ -9,7 +9,7 @@
 ## Projects :computer: <a name=projects></a>
 
 ### Playwright automated testing
-- This project focused on implementing automated Playwright testing for RocketDev website
+- This project focused on implementing automated Playwright testing for RocketDev website.
 - Tech: Playwright, JavaScript
 
 - [Link](https://github.com/p-kulesza/PlaywrightJavaScript)
