@@ -3,9 +3,9 @@
 **Programming Languages:** Python, JavaScript
 
 **Frameworks**: Selenium, Playwright
-
-**Tools**: Postman
   
+---
+
 ## Projects :computer: <a name=projects></a>
 
 ### Playwright automated testing
