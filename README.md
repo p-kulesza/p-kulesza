@@ -44,7 +44,7 @@
 - This project is a part of Java Development Bootcamp course
 - Tech: Java
 
-- [Repository]()
+- [Repository](https://github.com/p-kulesza/starter-project)
 ---
 
 ## How to Reach Me?<a name="reach"></a>
