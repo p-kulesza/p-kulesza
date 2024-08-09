@@ -6,7 +6,7 @@
   
 ---
 
-# Projects :computer: <a name=projects></a>
+## Projects :computer: <a name=projects></a>
 
 ### Playwright automated testing
 - This project focused on implementing automated Playwright testing for RocketDev website.
@@ -28,7 +28,9 @@
   
 - [Link](https://github.com/p-kulesza/API-testing)
 
-# Courses :books:
+---
+
+## Courses :books:
 
 ### API Data Processing
 
@@ -38,6 +40,7 @@
 - [Link](https://github.com/p-kulesza/APIDataProcessing)
   
 ---
+
 ## How to Reach Me?<a name="reach"></a>
 
 - Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/piotrkulesza2000/).
