@@ -34,7 +34,7 @@
 
 ### API Data Processing
 
-- This project integrates OmdbAPI and TasteDive for discovering and exploring movies.
+- This project integrates OmdbAPI and TasteDive for discovering and exploring movies. It was a part of Python 3 Programming Specialization
 - Tech: Python
 
 - [Link](https://github.com/p-kulesza/APIDataProcessing)
