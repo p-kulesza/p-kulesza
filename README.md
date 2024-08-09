@@ -39,7 +39,7 @@
 
 - [Repository](https://github.com/p-kulesza/APIDataProcessing)
 
-### Baking Account Project (In Progress)
+### Banking Account Project (In Progress)
 
 - This project is a part of Java Development Bootcamp course
 - Tech: Java
