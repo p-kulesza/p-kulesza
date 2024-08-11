@@ -41,7 +41,7 @@
 
 ### Banking Account Project (In Progress)
 
-- This project is a part of Java Development Bootcamp course
+- This project is a object oriented programming showcase, it is a guided assigment, part of Java Development Bootcamp course.
 - Tech: Java
 
 - [Repository](https://github.com/p-kulesza/starter-project)
